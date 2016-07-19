@@ -1,0 +1,39 @@
+.title_background {
+	background-image:url("../images/img_5015.jpg");
+	display
+}
+
+
+
+.blue {
+	color: blue;
+	size: 40px;
+	/*border: 5px solid black;*/
+	text-align: center;
+	/*padding-bottom: 10px;*/
+	/*padding-top: 10px;*/
+	display:inline;
+	float:center;
+}
+
+p {
+	color:purple;
+	size:20px;
+	text-align:left;
+}
+
+html {
+	background-color: 77BA99;
+}
+
+h1 {
+    /*border-style: solid;*/
+    border-bottom: solid; #ff0000;*/
+    display:inline;
+}
+
+
+
+
+
+
