@@ -15,6 +15,12 @@ p {
 	text-align:left;
 	float: left;
 }
+.Pictures {
+    display:block;
+    margin:auto;
+    width: 25%;
+
+}
 
 html {
 	background-color: 77BA99;
@@ -23,11 +29,24 @@ html {
 h1 {
     /*border-style: solid;*/
     border-bottom: solid; #ff0000;*/
-    display:inline;
+    display:block;
+   	text-align: center;
+
+. {
+	   width:200px; 
+       height:200px; 
+       background-image: url(http://wallpaper.zone/thumb/1673740.jpg);
+ }
+
 }
 
 	/*position: relative;
 	left:525px;*/
+
+.AboutMe {
+	padding-left:50%;
+	font-family: ';
+
 
 
 
